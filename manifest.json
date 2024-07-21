@@ -1,6 +1,6 @@
 {
-    "name": "fb",
-    "short_name": "fb",
+    "name": "Facebook",
+    "short_name": "Facebook",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
